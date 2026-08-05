@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analytics: Building × growth
+# 📊 Sales Performance Analytics
 
 **A Full-Stack Data Analysis Pipeline (Excel -> MySQL -> Power BI)**
 
