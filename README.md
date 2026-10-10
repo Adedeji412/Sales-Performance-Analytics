@@ -3,6 +3,7 @@
 **An end-to-end data analysis pipeline built with Excel, MySQL, and Power BI.**
 
 ## Project Overview
+![Dashboard Overview](Screenshot%202026-07-19%20205435_1.png)
 The goal of this project was to transform raw, unstructured sales data into a clear, interactive dashboard that actually drives business decisions. Rather than just reporting numbers, this project demonstrates a complete data pipeline—from initial data cleaning and relational database modeling to final visual insights.
 
 ## Tech Stack
